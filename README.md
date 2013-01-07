@@ -15,4 +15,4 @@ FEATURES:
 
 -Show status of skype accounts of users that signed in
 
--Users can get a report if his own activity.
+-Users can get a report of his own activity.
