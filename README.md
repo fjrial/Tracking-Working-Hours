@@ -9,7 +9,7 @@ FEATURES:
 
 -Support for signing in/out with x.509 certificates
 
--Different user profiles: administrators and normal users
+-Different user profiles: administrators (can edit and add sessions) and normal users
 
 -Reports module: Generate on demand, output in pdf/html, sent to administrators emails
 
